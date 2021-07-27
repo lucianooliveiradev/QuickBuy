@@ -1,0 +1,8 @@
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp2.1\QuickBuy.Dominio.deps.json
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp2.1\QuickBuy.Dominio.dll
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp2.1\QuickBuy.Dominio.pdb
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.1\QuickBuy.Dominio.AssemblyInfoInputs.cache
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.1\QuickBuy.Dominio.AssemblyInfo.cs
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.1\QuickBuy.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.1\QuickBuy.Dominio.dll
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.1\QuickBuy.Dominio.pdb

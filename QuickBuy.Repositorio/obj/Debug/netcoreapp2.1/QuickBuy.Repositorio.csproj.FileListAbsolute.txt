@@ -1,0 +1,8 @@
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.1\QuickBuy.Repositorio.deps.json
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.1\QuickBuy.Repositorio.dll
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Repositorio\bin\Debug\netcoreapp2.1\QuickBuy.Repositorio.pdb
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.1\QuickBuy.Repositorio.AssemblyInfoInputs.cache
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.1\QuickBuy.Repositorio.AssemblyInfo.cs
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.1\QuickBuy.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.1\QuickBuy.Repositorio.dll
+C:\Users\luciano.oliveira\source\repos\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp2.1\QuickBuy.Repositorio.pdb
